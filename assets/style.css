@@ -37,3 +37,7 @@
 .table-bordered tbody tr td {
     text-align: center;
 }
+
+.background_color {
+    border-radius: 6px;
+}
